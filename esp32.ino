@@ -135,5 +135,6 @@ void connectWifi() {
     Serial.println("");
     Serial.println("WiFi connected");
     Serial.println("IP address: ");
+    
     Serial.println(WiFi.localIP());
 }
