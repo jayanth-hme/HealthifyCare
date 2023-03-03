@@ -123,6 +123,7 @@ void vibrator() {
   delay(1000);
 }
 
+
 void connectWifi() {
     delay(10);
     Serial.print("Connecting to \n");
